@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="business_card">Business Card</string>
+    <string name="cd_add">Add business card.</string>
+    <string name="new_card">New Card</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_company">Company</string>
+    <string name="hint_color">Color</string>
+    <string name="btn_confirm_txt">Confirm</string>
+    <string name="select_color_txt">Select color</string>
+    <string name="show_success">Card registered</string>
+    <string name="share">Share</string>
+</resources>
